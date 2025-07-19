@@ -80,7 +80,6 @@ Employee attrition is a major issue faced by organizations. This project explore
 ## 🧠 Author
 
 **Siddhardha Naidu Gorja**  
-MSc. Data Science Student  
 [GitHub Profile](https://github.com/siddhardha23g)
 
 ---
